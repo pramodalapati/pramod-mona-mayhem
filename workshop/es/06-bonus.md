@@ -51,9 +51,9 @@ Persiste los resultados de las batallas para que los usuarios puedan ver sus enf
 
 **Qué construir:**
 - Guarda cada resultado de batalla en `localStorage` (nombres de usuario, totales, ganador, marca de tiempo)
-- Agrega una sección **"Recent Battles"** debajo del área principal de batalla
+- Agrega una sección **«Batallas recientes»** debajo del área principal de batalla
 - Muestra las últimas 5–10 batallas con resultados
-- Agrega un botón "Clear History"
+- Agrega un botón «Borrar historial»
 
 **Sugerencia de prompt:**
 > Save battle results to localStorage after each comparison. Add a "Recent Battles" section that displays the last 10 battles with usernames, contribution totals, the winner, and when the battle happened. Include a "Clear History" button.
@@ -96,7 +96,7 @@ Agrega una leyenda de escala de colores que coincida con la paleta de colores de
 
 **Qué construir:**
 - Una leyenda horizontal mostrando los niveles de intensidad de contribuciones
-- Etiquetas desde **"Less"** hasta **"More"**
+- Etiquetas desde **«Menos»** hasta **«Más»**
 - Usa la paleta de colores real de la respuesta de la API de contribuciones de GitHub
 - Posiciónala cerca de los gráficos de contribuciones
 
@@ -110,7 +110,7 @@ Agrega una leyenda de escala de colores que coincida con la paleta de colores de
 Permite que los usuarios compartan sus resultados de batalla con un solo clic.
 
 **Qué construir:**
-- Un botón **"📋 Share Results"** que aparece después de una batalla
+- Un botón **«📋 Compartir resultados»** que aparece después de una batalla
 - Copia un resumen de texto formateado al portapapeles
 - Incluye nombres de usuario, totales de contribuciones y el ganador
 - Muestra un breve mensaje de confirmación "Copied!"
@@ -130,7 +130,7 @@ Si quieres explorar más funcionalidades de Copilot CLI después del taller prin
 - Usa `/session` y `/session plan` para inspeccionar cómo el CLI está rastreando tu trabajo actual.
 <!-- track:cli:end -->
 
-## �� ¡Felicitaciones!
+## 🎊 ¡Enhorabuena!
 
 ¡Has completado el taller **Mona Mayhem: GitHub Battle**! Esto es lo que lograste:
 

@@ -51,9 +51,9 @@ Persista os resultados das batalhas para que os usuários possam ver seus confro
 
 **O que construir:**
 - Salve cada resultado de batalha no `localStorage` (nomes de usuário, totais, vencedor, timestamp)
-- Adicione uma seção **"Recent Battles"** abaixo da área principal de batalha
+- Adicione uma seção **“Batalhas recentes”** abaixo da área principal de batalha
 - Mostre as últimas 5–10 batalhas com resultados
-- Adicione um botão "Clear History"
+- Adicione um botão “Limpar histórico”
 
 **Sugestão de prompt:**
 > Save battle results to localStorage after each comparison. Add a "Recent Battles" section that displays the last 10 battles with usernames, contribution totals, the winner, and when the battle happened. Include a "Clear History" button.
@@ -96,7 +96,7 @@ Adicione uma legenda de escala de cores que corresponda à paleta de cores do gr
 
 **O que construir:**
 - Uma legenda horizontal mostrando os níveis de intensidade de contribuições
-- Rótulos de **"Less"** a **"More"**
+- Rótulos de **“Menos”** a **“Mais”**
 - Use a paleta de cores real da resposta da API de contribuições do GitHub
 - Posicione-a perto dos gráficos de contribuições
 
@@ -110,7 +110,7 @@ Adicione uma legenda de escala de cores que corresponda à paleta de cores do gr
 Permita que os usuários compartilhem seus resultados de batalha com um único clique.
 
 **O que construir:**
-- Um botão **"📋 Share Results"** que aparece após uma batalha
+- Um botão **“📋 Compartilhar resultados”** que aparece após uma batalha
 - Copia um resumo formatado em texto para a área de transferência
 - Inclua nomes de usuário, totais de contribuições e o vencedor
 - Mostre uma breve mensagem de confirmação "Copied!"
